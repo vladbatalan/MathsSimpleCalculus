@@ -1,0 +1,18 @@
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\bin\Debug\Adunari si Scaderi pana la 10.exe
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\bin\Debug\Adunari si Scaderi pana la 10.pdb
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\Adunari_si_Scaderi_pana_la_10.Form1.resources
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\Adunari_si_Scaderi_pana_la_10.Properties.Resources.resources
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.csproj.GenerateResource.Cache
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.exe
+D:\Documents and Settings\Vlad\Local Settings\Application Data\Temporary Projects\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.pdb
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.exe
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.pdb
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\bin\Debug\Adunari si Scaderi pana la 10.exe
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\bin\Debug\Adunari si Scaderi pana la 10.pdb
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\ResolveAssemblyReference.cache
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari_si_Scaderi_pana_la_10.Form1.resources
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari_si_Scaderi_pana_la_10.Properties.Resources.resources
+C:\Games\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.csproj.GenerateResource.Cache
+H:\Microsoft Visual c#\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.exe
+H:\Microsoft Visual c#\Adunari si Scaderi pana la 10\Adunari si Scaderi pana la 10\obj\Debug\Adunari si Scaderi pana la 10.pdb
